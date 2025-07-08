@@ -1,1 +1,2 @@
-This is a React Starter Project for use in Stephen Grider's courses on Udemy.
+This is a React Book Search Project made along with Tailwind CSS
+
