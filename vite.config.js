@@ -1,6 +1,8 @@
 import { defineConfig, transformWithEsbuild } from "vite";
 import react from "@vitejs/plugin-react";
 
+// Vite Support Code
+
 export default defineConfig({
   plugins: [
     {
